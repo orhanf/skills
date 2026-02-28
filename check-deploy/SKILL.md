@@ -1,3 +1,8 @@
+---
+name: check-deploy
+description: Check Railway deployment status and logs. Use when the user wants to check if the deploy is healthy.
+---
+
 # /check-deploy — Check Railway deployment status and logs
 
 Quickly check whether the current Railway deployment is healthy.

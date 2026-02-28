@@ -1,3 +1,8 @@
+---
+name: deploy
+description: Deploy to Railway and verify the deployment is healthy. Use when the user wants to deploy.
+---
+
 # /deploy — Deploy to Railway and verify
 
 Deploy the current code to Railway and confirm it's running.

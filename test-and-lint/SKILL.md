@@ -1,3 +1,8 @@
+---
+name: test-and-lint
+description: Run tests and lint, fix any issues found. Use when the user wants to check code quality or fix lint/test failures.
+---
+
 # /test-and-lint — Run tests and lint, fix issues
 
 Run the full test and lint suite and fix any problems found.

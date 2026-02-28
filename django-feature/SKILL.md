@@ -1,3 +1,8 @@
+---
+name: django-feature
+description: Scaffold a complete Django feature end-to-end (model, form, views, urls, templates, tests). Use when the user wants to add a new feature or app.
+---
+
 # /django-feature — Scaffold a complete Django feature
 
 Plan and implement a full Django feature end-to-end following the project's conventions.

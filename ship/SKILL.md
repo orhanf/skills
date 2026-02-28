@@ -1,3 +1,8 @@
+---
+name: ship
+description: Test, lint, commit, and push the current changes. Use when the user wants to ship their work.
+---
+
 # /ship — Test, lint, commit, and push
 
 Run the full pre-deploy quality cycle and ship the current changes.
@@ -16,10 +21,3 @@ Run the full pre-deploy quality cycle and ship the current changes.
 - Never force-push. Never push to main/master without confirmation.
 - Only commit files related to the current task — review `git status` first.
 - If there are no changes to commit, say so and stop.
-
-## Usage
-
-```
-/ship
-/ship just the view and template changes
-```
