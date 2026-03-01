@@ -11,6 +11,7 @@ Reusable [Claude Code](https://claude.ai/code) slash-command skills that can be 
 | `/check-deploy` | [check-deploy/](check-deploy/) | Check Railway deployment health |
 | `/django-feature` | [django-feature/](django-feature/) | Scaffold a complete Django feature end-to-end |
 | `/test-and-lint` | [test-and-lint/](test-and-lint/) | Run tests + lint and fix any issues |
+| `/serverless_cron_scraper` | [serverless_cron_scraper.md](serverless_cron_scraper.md) | Set up a serverless cron scraper using GitHub Actions |
 
 ## Usage
 
